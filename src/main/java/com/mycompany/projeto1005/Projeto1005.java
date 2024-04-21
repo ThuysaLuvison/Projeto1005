@@ -18,4 +18,4 @@ public class Projeto1005 {
         MEDIA = (NOTA1 + NOTA2) / 11;
         System.out.printf("MEDIA = %.5f\n", MEDIA);
     }
-}
+
